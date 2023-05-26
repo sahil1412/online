@@ -1,0 +1,7 @@
+.hide {
+    display: node;
+  }
+      
+  .myDIV:hover + .hide {
+    display: block;
+  }
